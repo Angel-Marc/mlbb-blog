@@ -1,2 +1,0 @@
-# mlbb-blog
-mlbb blog
